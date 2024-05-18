@@ -34,3 +34,5 @@ This project not only reinforces the statistical skills needed in the field of m
 For more information, please contact:
 - Email: geral@dss-pro.pt
 - Website: [DSPRO](http://www.dss-pro.pt)
+
+![CERTIFICATE](https://github.com/DSPROPT/META-STATISTICS-FOR-MARKETING/blob/main/certificate.png)
