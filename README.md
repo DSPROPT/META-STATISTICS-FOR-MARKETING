@@ -25,7 +25,7 @@ Welcome to the Capstone Project for the "Statistics for Marketing" course offere
 ## Key Visualizations
 Throughout the project, data visualization plays a crucial role in understanding trends and patterns. Below is one of the key visualizations created using Seaborn in Python, illustrating the relationship between Facebook Ad Clicks and Conversions.
 
-![Key Visualization](https://www.dss-pro.pt/key-visualization.png)
+![Key Visualization](https://www.dss-pro.pt/key.png)
 
 ## Final Thoughts
 This project not only reinforces the statistical skills needed in the field of marketing but also prepares participants to tackle complex data-driven challenges. Continuous monitoring, A/B testing, and the implementation of advanced modeling techniques are recommended to enhance future campaigns.
