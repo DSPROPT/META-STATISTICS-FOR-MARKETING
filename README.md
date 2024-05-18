@@ -33,4 +33,4 @@ This project not only reinforces the statistical skills needed in the field of m
 ## Contact
 For more information, please contact:
 - Email: geral@dss-pro.pt
-- Website: [DSS Pro](http://www.dss-pro.pt)
+- Website: [DSPRO](http://www.dss-pro.pt)
